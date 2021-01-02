@@ -12,3 +12,6 @@
  4. Create Data Table (10 minutes): Persist data in an Amazon DynamoDB table.
  5. Add Interactivity to Web App (5 minutes): Modify your web app to invoke your API.
 
+ # Contents:
+ * index.html: example html file establishing front end/static website
+ * index.zip: zipped index.html for hosting on AWS Amplify
